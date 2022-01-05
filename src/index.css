@@ -29,11 +29,19 @@ body {
 .dots {
   height: 9px;
   width: 9px;
-  border: 1px solid #0f1d1d;
+  background: #0f1d1d;
 }
 
 .field {
   display: flex;
   flex-wrap: wrap;
   /* b. */
+}
+
+.snake {
+  background: white;
+}
+
+.food {
+  background: pink;
 }
