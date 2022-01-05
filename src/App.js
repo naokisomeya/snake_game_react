@@ -1,4 +1,3 @@
-import './App.css';
 import Navigation from './components/Navigation'
 import Field from './components/Field'
 import Button from './components/Button'
